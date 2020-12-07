@@ -10,4 +10,5 @@ The UI will be written in ReactJS, which serves 3 purposes.
 
 ## TODO
 - User interface 
+- Tidy up nodejs server
 - Docker-compose for setting up Kafka and Zookeeper
